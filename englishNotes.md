@@ -2,7 +2,7 @@
 *Attention: File incomplete*
 
 ## overall grammar
-decadic + " " + number
+hundred + " " + decadic + "-" + number
 
 ## general lists
 *{} : irregular*
@@ -22,7 +22,7 @@ Unfortunatly, this is only true for 3 out of 10 decadics(60,70,90), others are d
 ## decadics + numbers
 When merging the two together all the numbers comming out seem to follow the rule
 
-decadic + " " + number
+decadic + "-" + number
 
 as described above in *overall grammar*.
 But the numbers in combination with ten follow a different rule:
